@@ -15,16 +15,11 @@ is_check = True
 if score < 0 or score > 100:
     print("점수는 0 ~ 100 사이여야 합니다.")
     is_check = False
-elif score >= 90:
-    grade = "A"
-elif score >= 80:
-    grade = "B"
-elif score >= 70:
-    grage = "C"
-elif score >= 60:
-    grade = "D"
-else:
-    grade = "F"
+elif score >= 90: grade = "A"
+elif score >= 80: grade = "B"
+elif score >= 70: grade = "C"
+elif score >= 60: grade = "D"
+else: grade = "F"
 
 if is_check:
     print(grade)
