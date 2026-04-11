@@ -1,0 +1,4 @@
+Hello everyone
+We are learning Python
+This is AI programming lecture
+We love Python
