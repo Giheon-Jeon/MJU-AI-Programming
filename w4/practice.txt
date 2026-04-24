@@ -1,4 +1,4 @@
-Hello everyone
-We are learning Python
+수정된 첫 줄
+are learning Python
 This is AI programming lecture
 We love Python
